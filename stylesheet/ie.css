@@ -1,0 +1,6 @@
+#nav li a:hover, #nav li a:focus, #nav li a:active,#nav li a.current {
+	/background: #033 url('../images/bouton-menu.jpg') left -35px no-repeat ;
+}
+#nav li a.edition {
+	/background: #033 url('../images/bouton-menu-edition.jpg') left -35px no-repeat ;
+}
